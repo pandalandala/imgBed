@@ -1,4 +1,3 @@
 # imgbed
 defaultcover：默认封面
-posts：2022/06之前posts的图片
-
+posts & images：2022/06之前文章中的图片
